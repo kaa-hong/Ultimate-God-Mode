@@ -1,7 +1,7 @@
 # Ultimate-God-Mode
 ## Welcome!
 You may have come here from the [Steam workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1710233598) on the Ultimate God Mode mod. This is a guide on how to make Ultimate God Mode work on any overhaul mod such as Millennium Dawn, Equestria at War, etc. 
-### NOTE!:
+### **NOTE:**
 As the methods used will require you to move and replace files, this will effectively change the overhaul mod that you have installed. This means that once the process is done, it cannot be reverted unless you reinstall the overhaul mod! [Read more at the bottom of this guide...](https://github.com/kaa-hong/Ultimate-God-Mode/tree/main#how-do-i-play-the-overhaul-mod-without-ultimate-god-mode)
 
 ## Let's get started!
