@@ -40,6 +40,6 @@ Now your game is ready to play! You may disable Ultimate God Mode on the launche
 Because you have moved Ultimate God Mode into the overhaul mod, the overhaul mod will now only be playable with Ultimate God Mode. To fix this and revert everything back to normal you can either:
 * Reinstall the overhaul mod from the Steam Workshop by unsubscribing then subscribing.
 * Wait for an update for the overhaul mod (Updates from overhaul mods will remove Ultimate God Mode automatically) - Yes this means you'll have to repeat this process again if you want to play with UGM.
-* Locate and identify Ultimate God Mode's files in the overhaul mod's files and remove them manually (Only do this if you know what you are doing!).
+* Locate and identify Ultimate God Mode's files in the overhaul mod's files and remove them manually. (Only do this if you know what you are doing!)
 
 You can also do something to counter this issue before doing this whole process, which is by creating a local mod file and placing both mod's files inside. This is a more technical approach, so if you have some knowledge on how and where files are meant to be placed then go ahead. This will need to be regularly repeated to keep up with updates on both mods.
