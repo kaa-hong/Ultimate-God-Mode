@@ -27,7 +27,7 @@ A few notable overhaul mods can be identified with these folder names (IDs):
 * [1826643372](https://steamcommunity.com/sharedfiles/filedetails/?id=1826643372) - Equestria at War;
 * [2265420196](https://steamcommunity.com/sharedfiles/filedetails/?id=2265420196) - Old World Blues;
 
-You can always find the IDs by going to the mod's steam workshop page and looking at the URL, or use trial and error by opening all the folders to identify them.
+You can always find the IDs by going to the mod's steam workshop page and looking at the URL.
 
 ### Step 3. Move Ultimate God Mode's files into the overhaul mod files
 The third and final step is to copy and paste Ultimate God Mode's files into the overhaul mod. **Please make sure you copy and paste, otherwise, Ultimate God Mode's files will disappear!** Also only copy and paste the three folders NOT including the 'descriptor.mod' and 'thumbnail.png'.
@@ -38,7 +38,7 @@ Now your game is ready to play! You may disable Ultimate God Mode on the launche
 
 ## How do I play the overhaul mod without Ultimate God Mode?
 Because you have moved Ultimate God Mode into the overhaul mod, the overhaul mod will now only be playable with Ultimate God Mode. To fix this and revert everything back to normal you can either:
-* Reinstall the overhaul mod from the Steam Workshop by unsubscribing then subscribing.
+* Reinstall the overhaul mod from the Steam Workshop by unsubscribing then subscribing. (Recommended)
 * Wait for an update for the overhaul mod (Updates from overhaul mods will remove Ultimate God Mode automatically) - Yes this means you'll have to repeat this process again if you want to play with UGM.
 * Locate and identify Ultimate God Mode's files in the overhaul mod's files and remove them manually. (Only do this if you know what you are doing!)
 
